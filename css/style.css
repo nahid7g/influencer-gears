@@ -57,6 +57,12 @@ nav ul li a,
   align-items: center;
   margin: 70px 0;
 }
+.banner-right img {
+  transition: 0.8s;
+}
+.header-banner:hover .banner-right img {
+  transform: scale(1.2);
+}
 .half-banner {
   width: 50%;
 }
