@@ -58,7 +58,7 @@ nav ul li a,
   margin: 70px 0;
 }
 .banner-right img {
-  transition: 0.8s;
+  transition: 0.7s;
 }
 .header-banner:hover .banner-right img {
   transform: scale(1.2);
